@@ -1,0 +1,16 @@
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.Tests.dll
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.Tests.pdb
+/home/kat/RiderProjects/CSharpClass/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CopyComplete
